@@ -46,6 +46,29 @@
         }
     },
     {
+        "Name": "Actovo Modolo",
+        "Version": "",
+        "URL": "http:\/\/activiti.org\/components.html",
+        "Creator": "Alfresco and the Activiti community",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010-05-17",
+        "Latest Release": "2014-12-18",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "ADONIS (software)",
         "Version": "",
         "URL": "http:\/\/www.boc-group.com\/de\/produkte\/adonis\/",
